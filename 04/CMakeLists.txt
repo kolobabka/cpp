@@ -3,4 +3,4 @@ project(geometry VERSION 1.0.0)
 
 add_subdirectory(task_7)
 add_subdirectory(task_8)
-add_subdirectory(task_10)
+#add_subdirectory(task_10)
