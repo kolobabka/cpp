@@ -1,6 +1,9 @@
 cmake_minimum_required(VERSION 3.16)
 project(geometry VERSION 1.0.0)
 
+add_subdirectory(task_4)
+add_subdirectory(task_5)
 add_subdirectory(task_7)
 add_subdirectory(task_8)
-add_subdirectory(task_10)
+add_subdirectory(task_12)
+add_subdirectory(task_13)

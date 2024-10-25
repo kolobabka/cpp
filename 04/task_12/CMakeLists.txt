@@ -1,0 +1,3 @@
+add_executable(add_remove_const main.cc)
+
+target_compile_features(add_remove_const PUBLIC cxx_std_17)
