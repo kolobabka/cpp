@@ -13,7 +13,7 @@ class Builder {
 private:
     Person P;
 public:
-    Builder& name(std::string_view Name) {
+    Builder& name(std::string Name) {
         P.Name = Name;
         return *this;
     }
