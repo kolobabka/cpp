@@ -1,0 +1,6 @@
+add_executable(05.02_improved 05.02_improved.cc)
+add_executable(05.03_improved 05.03_improved.cc)
+add_executable(05.07_improved 05.07_improved.cc)
+add_executable(05.08_improved 05.08_improved.cc)
+add_executable(05.10_improved 05.10_improved.cc)
+add_executable(05.12_improved 05.12_improved.cc)
