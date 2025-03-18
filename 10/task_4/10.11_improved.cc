@@ -136,13 +136,13 @@ int main()
         Stack_v2 < int > stack_v2;
 
         stack_v2.push(1); assert(stack_v2.top() == 1); assert(stack_v2.max() == 1);
-        assert(stack_v1.min() == 1);
+        assert(stack_v2.min() == 1);
 
         stack_v2.push(3); assert(stack_v2.top() == 3); assert(stack_v2.max() == 3);
-        assert(stack_v1.min() == 1);
+        assert(stack_v2.min() == 1);
 
         stack_v2.push(2); assert(stack_v2.top() == 2); assert(stack_v2.max() == 3);
-        assert(stack_v1.min() == 1);
+        assert(stack_v2.min() == 1);
 
         stack_v2.pop ( ); assert(stack_v2.top() == 3); assert(stack_v2.max() == 3);
 
