@@ -1,2 +1,2 @@
-add_executable(geom main.cc)
+add_executable(geom-2 main.cc)
 
